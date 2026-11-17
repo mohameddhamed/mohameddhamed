@@ -1,6 +1,6 @@
 # Mohamed Hamed
 
-**Senior Java & Systems Concurrency Engineer | High-Throughput Enterprise Backend & Systems Internals**  
+** Java & Systems Concurrency Engineer | High-Throughput Enterprise Backend & Systems Internals**  
 *M.Sc. Software Architecture @ Eötvös Loránd University (ELTE)*  
 Budapest, Hungary • [LinkedIn](https://www.linkedin.com/in/mohameddhamed/) • [GitHub](https://github.com/mohameddhamed)
 
