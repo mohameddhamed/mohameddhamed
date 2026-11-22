@@ -14,9 +14,11 @@ Budapest, Hungary • [LinkedIn](https://www.linkedin.com/in/mohameddhamed/) •
 
 ## 🛠️ Engineering Profile
 
-I develop and validate Java application changes within the SAP HANA ecosystem. I started as an Application Developer in September 2026 after two SAP internships. During those internships I implemented CAP Java APIs and tests, and refactored legacy ABAP business logic into SAP CAP and Spring Boot services.
+I have been an Application Developer at SAP since September 2026. I fixed a duplicate-key defect in an application within the SAP HANA ecosystem by implementing a data migration and a uniqueness constraint. I also contributed NetBox DCIM integration and live power telemetry to data center observability tooling.
 
-During my backend internship at ExxonMobil, I implemented asynchronous Spring Boot document workflows with background processing and status polling. Earlier ExxonMobil internships focused on .NET and SQL Server development, and TypeScript configuration tooling.
+My earlier SAP roles were Software Developer and Backend Developer. I refactored ABAP business logic into SAP CAP and Spring Boot services and implemented REST/OData endpoints and automated API tests.
+
+At ExxonMobil, I progressed from Automation Developer to Full Stack Developer to Backend Software Developer. I designed and implemented a Spring Boot workflow for AI-assisted document analysis, with background jobs and polling endpoints for status and results. My earlier work covered .NET, SQL Server and TypeScript configuration tooling.
 
 My ELTE research examines virtual thread scheduling and contention in Spring Boot. My independent projects explore storage, networking and compilers.
 
